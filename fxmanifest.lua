@@ -1,6 +1,6 @@
 name "pc-bags"
-description ''
-version '0.0.1'
+description 'A self-cleaning, generic bag resource for qb-core.'
+version '0.0.2'
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
