@@ -35,9 +35,39 @@ Config = {
                 Slots = 10,
                 Expires = 60
             },
+            ['cluckinbellbag'] = {
+                OpenAnim = { Emote = 'carryfoodbag2' , Variant = nil, Time = 5000 },
+                StashWeight = 5000,
+                Slots = 10,
+                Expires = 60
+            },
+            ['designerbag'] = {
+                OpenAnim = { Emote = 'guccibag' , Variant = nil, Time = 5000 },
+                StashWeight = 20000,
+                Slots = 10,
+                Expires = 0
+            },
             ['dufflebag'] = {
                 OpenAnim = { Emote = 'dufbag' , Variant = nil, Time = 5000 },
                 StashWeight = 40000,
+                Slots = 10,
+                Expires = 0
+            },
+            ['garbagebag'] = {
+                OpenAnim = { Emote = 'gbag' , Variant = nil, Time = 5000 },
+                StashWeight = 30000,
+                Slots = 30,
+                Expires = 60
+            },
+            ['guncase'] = {
+                OpenAnim = { Emote = 'guncase' , Variant = nil, Time = 5000 },
+                StashWeight = 15000,
+                Slots = 5,
+                Expires = 0
+            },
+            ['mbag'] = {
+                OpenAnim = { Emote = 'medbag' , Variant = nil, Time = 5000 },
+                StashWeight = 30000,
                 Slots = 10,
                 Expires = 0
             },
